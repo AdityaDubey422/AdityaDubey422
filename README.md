@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## -🔭 I am currently pursuing Maths honours from RLA college,DU
+## -🌱 I am currently learning web development
+## I am also eager to learn Data science and AI/ML
+## -⚡ I enjoy chess, solving cube, studying maths,physics and i also have very good problem solving skills
+## -😄 he/him
+
